@@ -1,0 +1,1 @@
+document.write("<input type='image' " + "onClick='window.print()' " + "id='boutonImprimer' " + "value='Imprimer' src='Images/Imprimer.jpg' title='Imprimer'//>");
